@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hello,"
+date: 2012-12-08 14:06
+comments: true
+categories: 
+---
+
+World! Now you can expect some very very mundane posts.
