@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[May be seriously playful]]></title>
-  <link href="http://pravnar.github.com/atom.xml" rel="self"/>
-  <link href="http://pravnar.github.com/"/>
-  <updated>2013-07-25T09:54:26-07:00</updated>
-  <id>http://pravnar.github.com/</id>
+  <link href="http://pravnar.github.io/atom.xml" rel="self"/>
+  <link href="http://pravnar.github.io/"/>
+  <updated>2013-07-25T09:57:39-07:00</updated>
+  <id>http://pravnar.github.io/</id>
   <author>
     <name><![CDATA[Praveen Narayanan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blogzkrieg]]></title>
-    <link href="http://pravnar.github.com/blog/2013/07/25/blogzkrieg/"/>
+    <link href="http://pravnar.github.io/blog/2013/07/25/blogzkrieg/"/>
     <updated>2013-07-25T08:56:00-07:00</updated>
-    <id>http://pravnar.github.com/blog/2013/07/25/blogzkrieg</id>
+    <id>http://pravnar.github.io/blog/2013/07/25/blogzkrieg</id>
     <content type="html"><![CDATA[<p>I have decided to write 180 posts in the next 180 days. <!-- more --></p>
 
 <p>My desire to write better was the reason for starting this blog, which I did over eight months ago. Who knows what happened between then and now. I have recently noticed an increasing muddiness behind my thoughts, and for what it&#8217;s worth, I&#8217;m hoping to clear that out by continuously sharing ideas.</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello,]]></title>
-    <link href="http://pravnar.github.com/blog/2012/12/08/hello/"/>
+    <link href="http://pravnar.github.io/blog/2012/12/08/hello/"/>
     <updated>2012-12-08T14:06:00-08:00</updated>
-    <id>http://pravnar.github.com/blog/2012/12/08/hello</id>
+    <id>http://pravnar.github.io/blog/2012/12/08/hello</id>
     <content type="html"><![CDATA[<p>World! Now you can expect some very very mundane posts.</p>
 ]]></content>
   </entry>
