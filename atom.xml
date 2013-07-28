@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[May be seriously playful]]></title>
-  <link href="http://pravnar.github.io/atom.xml" rel="self"/>
-  <link href="http://pravnar.github.io/"/>
-  <updated>2013-07-25T09:57:39-07:00</updated>
-  <id>http://pravnar.github.io/</id>
+  <link href="http://pravnar.github.com/atom.xml" rel="self"/>
+  <link href="http://pravnar.github.com/"/>
+  <updated>2013-07-27T20:56:16-07:00</updated>
+  <id>http://pravnar.github.com/</id>
   <author>
     <name><![CDATA[Praveen Narayanan]]></name>
     
@@ -14,10 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[On learning a new (natural) language]]></title>
+    <link href="http://pravnar.github.com/blog/2013/07/26/on-a-new-natural-language/"/>
+    <updated>2013-07-26T09:31:00-07:00</updated>
+    <id>http://pravnar.github.com/blog/2013/07/26/on-a-new-natural-language</id>
+    <content type="html"><![CDATA[<p>At lunch the other day there was a discussion about the recent trend of crowdsourcing hard problems. Soon enough someone mentioned Duolingo<!-- more -->, a free language learning service, as an example where the task of translating small pieces of text is posed as one of the learning exercises for the users. The concept sounded familiar to me, as I vaguely recalled the reCAPTCHA project and its effective use of crowdsourcing towards digitizing books. This familiarity made sense later, upon reading that both projects were started by the same group at Carnegie Mellon. I was intrigued by descriptions of Duolingo&#8217;s &#8220;gamification&#8221; approach to learning, with many reviewers citing the service as addictive and fun. Hmm, perhaps it is time to learn a new language?</p>
+
+<p>How hard could it be? I am by no means a polyglot, but I can speak three languages and can read and write two of them, although they were all learnt during my childhood. I guess that the answer could depend on my motivations behind learning a new language. Do I want to add another language to my &#8220;bag&#8221;? Do I feel an immediate practical need for it? How important is it to <a href="http://speakfromday1.com/">speak from day 1</a>?</p>
+
+<p>One friend of mine is currently learning Japanese, purely to back up his interests in traveling there. Another friend decided to learn Swedish in order to converse with his girlfriend&#8217;s family, with her reciprocating by learning Turkish. Either of these languages can be considerably harder to pick up than some the options provided at Duolingo. I suppose I have plenty of inspiration around me, so why not pick up, say Spanish for a start?</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Blogzkrieg]]></title>
-    <link href="http://pravnar.github.io/blog/2013/07/25/blogzkrieg/"/>
+    <link href="http://pravnar.github.com/blog/2013/07/25/blogzkrieg/"/>
     <updated>2013-07-25T08:56:00-07:00</updated>
-    <id>http://pravnar.github.io/blog/2013/07/25/blogzkrieg</id>
+    <id>http://pravnar.github.com/blog/2013/07/25/blogzkrieg</id>
     <content type="html"><![CDATA[<p>I have decided to write 180 posts in the next 180 days. <!-- more --></p>
 
 <p>My desire to write better was the reason for starting this blog, which I did over eight months ago. Who knows what happened between then and now. I have recently noticed an increasing muddiness behind my thoughts, and for what it&#8217;s worth, I&#8217;m hoping to clear that out by continuously sharing ideas.</p>
@@ -28,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello,]]></title>
-    <link href="http://pravnar.github.io/blog/2012/12/08/hello/"/>
+    <link href="http://pravnar.github.com/blog/2012/12/08/hello/"/>
     <updated>2012-12-08T14:06:00-08:00</updated>
-    <id>http://pravnar.github.io/blog/2012/12/08/hello</id>
+    <id>http://pravnar.github.com/blog/2012/12/08/hello</id>
     <content type="html"><![CDATA[<p>World! Now you can expect some very very mundane posts.</p>
 ]]></content>
   </entry>
